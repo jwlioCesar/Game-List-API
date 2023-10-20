@@ -46,6 +46,7 @@ public class Game {
 		this.shortDescription = shortDescription;
 		this.longDescription = longDescription;
 	}
+	
 
 	public Long getId() {
 		return id;
