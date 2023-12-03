@@ -1,7 +1,5 @@
 # JavaDsList
 
-DSList é uma API Rest construída durante o Intensivão Java Spring, evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
-
 A API é um mecanismo de busca de jogos que permite aos usuários encontrar informações sobre diferentes jogos. Os usuários podem realizar pesquisas com base no gênero e classificação dos jogos. A API também possui um endpoint que permite ao usuário organizar a lista da maneira que preferir.
 
 ## Modelo de Domínio
@@ -45,3 +43,5 @@ cd dslist-backend
 
 # Autor
 [Julio Cesar Francisco da Silva](https://www.linkedin.com/in/juliocesa/)
+#
+DSList é uma API Rest construída durante o Intensivão Java Spring, evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
